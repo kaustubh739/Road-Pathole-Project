@@ -1,0 +1,4 @@
+(tf-env) C:\Users\kwani\OneDrive - Ensono\Desktop\LB_Data\road pathole\road_pathole>
+
+cd C:\Users\kwani\OneDrive - Ensono\Desktop\LB_Data\road pathole\road_pathole
+tf_env\Scripts\activate
