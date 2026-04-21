@@ -1,0 +1,11 @@
+### 📄 requirements.txt
+
+```text
+tensorflow
+keras
+pillow
+opencv-python
+numpy
+scikit-learn
+joblib
+tkvideo
